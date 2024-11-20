@@ -1,0 +1,1 @@
+Basic note taking app that allows adding, editing, and deleting notes. Notes are locally stored on the browser, and includes get suggestion feature which uses LLMs to give you a good and short suggestion to your note!
